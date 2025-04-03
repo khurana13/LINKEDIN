@@ -1,0 +1,12 @@
+# Core dependencies
+selenium>=4.1.0
+webdriver-manager>=3.5.2
+
+# Python standard libraries used (for reference)
+# tkinter - should be included with Python installation
+# threading - standard library
+# time - standard library
+# json - standard library
+# os - standard library
+# sys - standard library
+# traceback - standard library
