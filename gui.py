@@ -142,7 +142,8 @@ class LinkedInAutomationGUI:
         
         about_text = "LinkedIn Automation Tool\n\n" \
                     "This application helps automate LinkedIn connection requests.\n" \
-                    "Use responsibly and be aware of LinkedIn's terms of service."
+                    "Use responsibly and be aware of LinkedIn's terms of service.\n\n" \
+                    "Made by team @HackBuddies | Sneha Khurana"
         
         ttk.Label(about_frame, text=about_text, justify="center").pack(padx=10, pady=10)
     
